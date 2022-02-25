@@ -1,0 +1,52 @@
+{
+    "name": "Yarn",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "palette-blocks": "github:pelikhan/palette-blocks#v0.0.3",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "color-coded-tilemap": "*",
+        "sprite-scaling": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#1D2B53",
+        "#7E2553",
+        "#111D35",
+        "#AB5236",
+        "#5F574F",
+        "#C2C3C7",
+        "#FFF1E8",
+        "#FF004D",
+        "#FFA300",
+        "#F3EF7D",
+        "#A8E72E",
+        "#49333B",
+        "#FF6C24",
+        "#BE1250",
+        "#742F29"
+    ]
+}
